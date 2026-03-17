@@ -4,7 +4,7 @@ Fennoa Accounting API as agent tools — three ways to use [Fennoa's accounting 
 
 | Approach | Best for |
 |---|---|
-| [Plugin / Marketplace](#plugin--marketplace-install) | Easiest install — one command in Claude Code |
+| [Plugin / Marketplace](https://github.com/ljack/fennoa-agentic) | Easiest install — one command in Claude Code |
 | [MCP Server](#a--mcp-server) | Claude Code, Claude Desktop, VS Code — structured tool calls |
 | [Bash wrapper](#b--bash-wrapper) | Terminal, scripts, CI/CD — no Node.js runtime needed |
 | [Claude Code Skill](#c--claude-code-skill) | Ad hoc queries from Claude Code — no config needed |
