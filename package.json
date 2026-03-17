@@ -1,0 +1,23 @@
+{
+  "name": "fennoa-agentic",
+  "version": "1.0.0",
+  "description": "MCP server exposing the Fennoa Accounting API as agent tools",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "fennoa-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}
