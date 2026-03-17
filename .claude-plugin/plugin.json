@@ -1,0 +1,15 @@
+{
+  "name": "fennoa",
+  "description": "Fennoa Accounting API as agent tools — read ledger data, post journal entries, attach receipts, and manage budgets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ljack"
+  },
+  "homepage": "https://github.com/ljack/fennoa-agentic",
+  "repository": "https://github.com/ljack/fennoa-agentic",
+  "license": "MIT",
+  "keywords": ["fennoa", "accounting", "kirjanpito", "finance", "finland"],
+  "skills": [
+    "skills/fennoa"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "fennoa-agentic",
+  "owner": "ljack",
+  "description": "Fennoa Accounting API agent tools for Claude Code",
+  "plugins": [
+    {
+      "name": "fennoa",
+      "description": "Fennoa Accounting API as agent tools — read ledger data, post journal entries, attach receipts, and manage budgets.",
+      "source": ".",
+      "version": "1.0.0",
+      "keywords": ["fennoa", "accounting", "kirjanpito", "finance", "finland"]
+    }
+  ]
+}
